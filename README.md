@@ -15,7 +15,7 @@
 | 🔭 Currently building **Full-Stack projects** | 👨‍💻 All projects at [**My GitHub**](https://github.com/Sarabpreet1023) |
 |---|---|
 | 🌱 Learning **Docker, CI/CD & AWS** | ⚡ Grinding **LeetCode** in C++ |
-| 🎓 CS Student · **Chandigarh, India** | 📫 Reach me at **your@email.com** |
+| 🎓 CS Student · **Chandigarh, India** | 📫 Reach me at sandhusarabpreet2310@gmail.com |
 
 ---
 
