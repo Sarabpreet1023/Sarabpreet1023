@@ -19,11 +19,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-## 🏆 GitHub Trophies
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarabpreet1023&theme=tokyo-night&hide_border=true)](https://github.com/Sarabpreet1023)
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=Sarabpreet1023&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/Sarabpreet1023)
 
 ---
 
