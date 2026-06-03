@@ -21,13 +21,22 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=Sarabpreet1023&theme=tokyonight&no-frame=false&no-bg=false&margin-w=5)](https://github.com/Sarabpreet1023)
+## 🏆 GitHub Trophies
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=Sarabpreet1023&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/Sarabpreet1023)
 
 ---
 
 ## 📊 GitHub Stats
 
-[![stats](https://github-readme-stats.vercel.app/api?username=Sarabpreet1023&show_icons=true&theme=tokyonight)](https://github.com/Sarabpreet1023) [![streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarabpreet1023&theme=tokyonight)](https://github.com/Sarabpreet1023) [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarabpreet1023&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/Sarabpreet1023)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarabpreet1023&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarabpreet1023&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sarabpreet1023&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
